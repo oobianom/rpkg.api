@@ -4,3 +4,15 @@
 
 
 ## Under development..TBD
+
+  - [x] User authorization
+  
+  - [x] API database
+  
+  - [x] Shiny Like button API
+  
+  - [x] Shiny Follow button API
+  
+  - [x] Shiny Comment API
+  
+ ![](https://api.rpkg.net/dist/images/api_rpkg.png)
