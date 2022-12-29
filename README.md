@@ -13,6 +13,6 @@
   
   - [x] Shiny Follow button API
   
-  - [x] Shiny Comment API
+  - [ ] Shiny Comment API
   
  ![](https://api.rpkg.net/dist/images/api_rpkg.png)
