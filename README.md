@@ -3,7 +3,7 @@
 ## Official site: https://api.rpkg.net
 
 
-## Under development..TBD
+## Under development for publication to CRAN..TBD
 
   - [x] User authorization
   
