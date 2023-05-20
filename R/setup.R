@@ -7,8 +7,8 @@
 #' @export
 
 
-setup <- function(API) {
-  API <- substitute(API)
+useAPI <- function(key) {
+  API <- substitute(key)
   R6::R6Class("SetupKit",
     inherit = engine(),
     public = list(
