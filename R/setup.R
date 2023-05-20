@@ -2,7 +2,7 @@
 #'
 #' Store for api key and output variables
 #'
-#' @param API api key
+#' @param key api key
 #'
 #' @export
 
