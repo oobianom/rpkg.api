@@ -1,4 +1,4 @@
-# api.rpkg.net R package - Unparalleled access to the API of rpkg.net to allow R users to add examples to various pages, update their R author profiles and so much more
+# api.rpkg.net R package - Unparalleled access to the API of rpkg.net for provided stores and retrieval to documents and Apps
 
 ## Official site: https://api.rpkg.net
 
@@ -9,9 +9,9 @@
   
   - [x] API database
   
-  - [x] Shiny Like button API
+  - [ ] Shiny Like button API
   
-  - [x] Shiny Follow button API
+  - [ ] Shiny Follow button API
   
   - [ ] Shiny Comment API
   
