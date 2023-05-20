@@ -17,7 +17,7 @@ engine <- function(API) {
       }
     ),
     private = list(
-      API = "hot",
+      API = NULL,
       User = NULL,
       Name = NULL,
       IP = NULL
