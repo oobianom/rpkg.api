@@ -8,6 +8,7 @@
 
 
 setup <- function(API) {
+  API <- substitute(API)
   R6::R6Class("SetupKit",
     inherit = engine(),
     public = list(

@@ -7,7 +7,7 @@
 
 engine <- function(API) {
   R6::R6Class("Engine",
-    #lock_class = TRUE,
+    lock_class = TRUE,
     public = list(
       views = 0,
       likes = 0,
