@@ -1,4 +1,4 @@
-#' RPKG.net variable holder
+#' RPKG.net setup
 #'
 #' Store for api key and output variables
 #'
