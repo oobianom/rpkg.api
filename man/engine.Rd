@@ -6,6 +6,9 @@
 \usage{
 engine(API)
 }
+\arguments{
+\item{API}{api key}
+}
 \description{
 Store for api key and output variables
 }
