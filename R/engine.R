@@ -1,6 +1,7 @@
 #' RPKG.net variable holder
 #'
 #' Store for api key and output variables
+#' @param API api key
 #'
 #' @export
 
