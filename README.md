@@ -1,17 +1,17 @@
-# api.rpkg.net R package - Unparalleled access to the API of rpkg.net for provided stores and retrieval to documents and Apps
-
+# API 1.0: Storage of R shiny app views, likes and followers
+ 
 ## Official site: https://api.rpkg.net
 
-
-## Under development for publication to CRAN..TBD
 
   - [x] User authorization
   
   - [x] API database
+      
+  - [x] Shiny page views API
   
-  - [ ] Shiny Like button API
+  - [x] Shiny Like button API
   
-  - [ ] Shiny Follow button API
+  - [x] Shiny Follow button API
   
   - [ ] Shiny Comment API
   
